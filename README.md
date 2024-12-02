@@ -27,7 +27,7 @@ How to Use
    - Created a staging table (`world_layoffs.layoffs_staging`) to work on the raw data while preserving the original dataset.
    - Used the `CREATE TABLE ... LIKE` and `INSERT ... SELECT` commands to duplicate the structure and content of the staging table.
 
-![alt text](image-1.png)
+
 ---
 
 ### 2. **Removing Duplicates**
@@ -35,7 +35,8 @@ How to Use
    - Retained only unique rows by deleting entries where `row_num > 1`.
    - Introduced an additional column (`row_num`) temporarily to help filter duplicates.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/d217d299-0097-477e-8fd4-2e1092fda187)
+
 
 
 
