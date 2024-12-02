@@ -48,8 +48,6 @@ How to Use
    - **Date Column**:
      - Converted string date formats to a consistent `DATE` format using `STR_TO_DATE` and modified the column type.
 
-![image](https://github.com/user-attachments/assets/650340ab-c194-4b97-9c0c-70487c3db4df)
-
 
 ---
 
