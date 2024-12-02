@@ -83,6 +83,9 @@ Key SQL techniques used:
 Future Enhancements
 Implement automated scripts for periodic data cleaning.
 Develop visualizations using tools like Power BI or Tableau to explore trends in layoffs by industry, geography, and time.
+
 Author: Joseph Maldonado
+
 Location: Charlotte, NC
+
 Skills Applied: SQL, Data Cleaning, Data Standardization
