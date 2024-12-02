@@ -35,10 +35,6 @@ How to Use
    - Retained only unique rows by deleting entries where `row_num > 1`.
    - Introduced an additional column (`row_num`) temporarily to help filter duplicates.
 
-![image](https://github.com/user-attachments/assets/d217d299-0097-477e-8fd4-2e1092fda187)
-
-
-
 
 ---
 
